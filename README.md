@@ -1,6 +1,6 @@
 # EduHelperAgent — AI Educational Chatbot
 
-A Laravel-based AI chatbot built with [LarAgent](https://github.com/MaestroError/LarAgent) that helps school students learn three topics: **Solar System**, **Fractions**, and **Water Cycle**.
+A Laravel-based AI chatbot built with [LarAgent](https://github.com/MaestroError/LarAgent) that will only talk about three topics: **Solar System**, **Fractions**, and **Water Cycle**.
 
 ---
 

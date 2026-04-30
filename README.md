@@ -34,7 +34,7 @@ routes/
 
 ## Requirements
 
-- PHP >= 8.2
+- PHP >= 8.3
 - Composer
 - A free [Groq API key](https://console.groq.com/keys)
 
